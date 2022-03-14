@@ -1,0 +1,25 @@
+/*
+#navber.container{
+    background-color: black;
+    float:;
+    height: 50px;
+    width: 100%;
+}*/
+/* .container{
+    display: block;
+    float: right;
+    height: 10pix;
+    width: 50pix;
+}
+h1{
+    float: right;
+    color: aqua;
+} */
+.container{
+    background-color: blue;
+    height: 20%;
+    width: 20%; 
+  margin: auto;
+    color: yellow;
+}
+
